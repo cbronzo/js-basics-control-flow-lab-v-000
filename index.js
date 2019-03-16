@@ -20,7 +20,7 @@ return (city === 'NYC' ? 'Ok, sounds good.' : 'No go.');
 }
 
 function switchOnCharmFromTip(tip){
-  let response
+  let response;
   
   swtich(tip) {
     case 'generous':

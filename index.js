@@ -2,7 +2,7 @@
 
 
 function scuberGreetingForFree(someNumber) {
-  let result;
+  let result
   if (someNumber <= 400) {
     result = 'This one is on me!';
   }
@@ -12,7 +12,7 @@ function scuberGreetingForFree(someNumber) {
   else (someNumber > 2500){
    result = 'No can do.';
   }
-  return result;
+  return result
 }
 
 

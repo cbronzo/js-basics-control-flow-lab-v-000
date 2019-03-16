@@ -23,11 +23,22 @@ function switchOnCharmFromTip(tip){
   let response
   
   swtich(tip) {
-    case 'generous'
+    case 'generous':
+		response = "Thank you so much.";
+		break;
+		
+		case 'not as generous':
+		response = "Thank you.";
+		break;
+		
+		default:
+		response = "Bye.";
+		break;
+	}
+	
+	return response;
+} 
     
-  }
   
-  
-}
 
 

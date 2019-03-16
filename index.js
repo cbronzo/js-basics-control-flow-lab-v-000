@@ -10,4 +10,5 @@ functon scuberGreetingForFree(someValue) {
   else (someValue > 2500){
     'No can do.'
   }
+}
 

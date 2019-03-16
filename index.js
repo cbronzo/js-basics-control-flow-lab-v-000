@@ -3,14 +3,14 @@
 let result;
 function scuberGreetingForFree(someValue) {
   if (someValue <= 400) {
-    'This one is on me!'
+    result = 'This one is on me!';
   }
   else if (someValue > 2000) {
-    'I will gladly take your thirty bucks.'
+    result = 'I will gladly take your thirty bucks.';
   }
   else (someValue > 2500){
-    'No can do.'
+   result = 'No can do.';
   }
-  return result
+  return result;
 }
 

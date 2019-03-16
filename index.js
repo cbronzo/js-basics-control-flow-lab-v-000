@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-let result = 
+let result;
 function scuberGreetingForFree(someValue) {
   if (someValue <= 400) {
     'This one is on me!'

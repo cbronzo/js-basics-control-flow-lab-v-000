@@ -23,6 +23,7 @@ function switchOnCharmFromTip(tip){
   let response
   
   swtich(tip) {
+    case 'generous'
     
   }
   

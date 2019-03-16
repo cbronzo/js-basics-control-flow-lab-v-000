@@ -1,5 +1,5 @@
 // Write your code in this file!
 
-functon scuberGreetingForFree() {
+functon scuberGreetingForFree(someValue) {
 }
 }

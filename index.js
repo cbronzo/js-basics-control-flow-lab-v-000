@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-functon scuberGreetingForFree(someValue) {
+function scuberGreetingForFree(someValue) {
   if (someValue <= 400) {
     'This one is on me!'
   }

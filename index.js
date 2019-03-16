@@ -1,9 +1,12 @@
 // Write your code in this file!
 
 functon scuberGreetingForFree(someValue) {
-  if
-  else if
+  if (someValue <= 400) {"This one is on me!"
+  }
+  else if (someValue > 400) {
+  
 }
+else (someValue > 2500){
 }
 
 This one is on me!

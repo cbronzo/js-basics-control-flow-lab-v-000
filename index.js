@@ -6,7 +6,7 @@ functon scuberGreetingForFree(someValue) {
   else if (someValue > 400) {
   
 }
-else (someValue > 2500){
+else (someValue > 2500){'No can do.'
 }
 
 This one is on me!

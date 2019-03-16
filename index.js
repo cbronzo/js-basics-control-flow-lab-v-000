@@ -6,7 +6,7 @@ function scuberGreetingForFree(someNumber) {
   if (someNumber <= 400) {
     result = 'This one is on me!';
   }
-  else if (someNumber > 2000) {
+  if (someNumber > 2000) {
     result = 'I will gladly take your thirty bucks.';
   }
   else (someNumber > 2500){
@@ -15,3 +15,15 @@ function scuberGreetingForFree(someNumber) {
   return result;
 }
 
+
+
+
+
+	if (someNumber > 2000) {
+		result = "I will gladly take your thirty bucks.";
+	}
+	if (someNumber > 2500) {
+		result = "No can do.";
+	}
+	return result
+}

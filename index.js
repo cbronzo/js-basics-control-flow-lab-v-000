@@ -20,6 +20,8 @@ return (city === 'NYC' ? 'Ok, sounds good.' : 'No go.');
 }
 
 function switchOnCharmFromTip(){
+  let response
+  
   
 }
 
